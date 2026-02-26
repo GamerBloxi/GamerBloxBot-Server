@@ -9,4 +9,6 @@
 
 ⚜️ At the moment, the bot is on version 7.4v.
 
+➡️ In version 7.5v, the English version of "AI LEARNING" will be added. (only for early versions!)
+
 ✅ This bot can use most commands without taking into account mathematical and systematic knowledge.
